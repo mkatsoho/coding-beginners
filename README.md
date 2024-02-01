@@ -16,7 +16,7 @@ Pycharm is very popular in Python world. If you write both Python codes and Java
 Both of them have extensions, to provide further functions. You may know more soon.  
 
 
-## git 
+## Git 
 
     - Github.com 
     - Gitlab.com 
@@ -24,21 +24,19 @@ Both of them have extensions, to provide further functions. You may know more so
 
  
 
-## lint and formatter 
+## Lint and Formatter 
 
 The most useful extensions of IDE are lint and formatter. You can find more than one lint extensions and formatter extensions. 
 
- 
 
 Lint help you find out coding issues (known as issues) or possible coding issues (known as warnings).  
 
  
-
 Sometimes you complain that someone is writing garbage codes. Sometimes you do not like a person's code style, even if his codes are good. Formatter help a team adopt the same style for everyone.  
 
  
 
-## virtual env 
+## Virtual Env 
 
 If you have multiple projects, they are using 
 
@@ -50,7 +48,7 @@ You have to use the virtual environments. Each env seems an independent operatio
 
  
 
-## package dependence 
+## Package dependence 
 
 One project can work well on machine A. But it could not be installed correctly or work correctly on machine B after a few month. Each line of the project is absolutely the same on those 2 machines. 
 
@@ -67,13 +65,13 @@ In brief, you need freeze the dependent packages' versions. Python requirements.
 
  
 
-## package repository and publishing a package 
+## Package repository and publishing a package 
 
 Skip this. It is not for advanced developers. 
 
  
 
-## documentation 
+## Documentation 
 This is for senior developers.  
 
 
@@ -81,7 +79,7 @@ Write down human-readable comments in codes, and generate a document for the pro
 
  
 
-## unit tests 
+## Unit tests 
 
 This is for senior developers. 
 
@@ -90,26 +88,18 @@ Without unit tests, codes are like a tiger running on the cliff. The king will d
 
  
 
-## docker 
-
+## Docker 
 This is for senior developers. 
-
- 
 
 You want to demo a project to many fans. Furthermore, you would like to provide an independent environment for each fan.  
 
- 
 
 The low-cost way and also the efficient way is using docker. It is quite like a virtual machine, since everything is inner it. But it is lighter in the perspects of hardware, memory, and CPU than a virtual machine.  
 
  
 
 ## Kubernetes (aka. K8s) 
-
 This is for advanced developers. 
 
-
 K8s is a cluster of dockers running in cloud.  
- 
-
  
